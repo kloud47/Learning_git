@@ -1,2 +1,2 @@
 # Learning_git
-learning git hub
+learning git hub for Web Dev.
